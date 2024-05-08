@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @KSultanaGit
-- 👀 I’m interested in ...
+
 - 🌱 I’m currently learning Data Analytics and Machine Learning...
+
 - 💞️ I’m open to collaborate on all things Data 
+
 - 📫 Reach me out on LinkedIn
 
   
