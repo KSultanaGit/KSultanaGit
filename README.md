@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khadija Sultana @KSultanaGit
 
-- 🌱 Graduated in the Computer Science Engineering amd I’m currently learning Data Analytics and Machine Learning...
+- 🌱 Graduated in the Computer Science Engineering and I’m currently learning Data Analytics and Machine Learning...
 
 - 💞️ I’m open to collaborate on all things Data 
 
